@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "chrome-logger": {
+      "command": "pnpm",
+      "args": ["exec", "node", "D:\\Mcp\\b-mcp\\mcp-chrome.js"],
+      "env": {
+        "NODE_ENV": "development"
+      },
+      "description": "Chrome browser logging tools"
+    }
+  }
+}
